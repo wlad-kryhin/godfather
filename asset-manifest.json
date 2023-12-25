@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/godfather/static/css/main.b4483e54.css",
-    "main.js": "/godfather/static/js/main.3b6aee60.js",
-    "static/js/787.01048402.chunk.js": "/godfather/static/js/787.01048402.chunk.js",
-    "static/media/Sofia.jpeg": "/godfather/static/media/Sofia.78aa22f3042f39ec50a0.jpeg",
-    "index.html": "/godfather/index.html",
-    "main.b4483e54.css.map": "/godfather/static/css/main.b4483e54.css.map",
-    "main.3b6aee60.js.map": "/godfather/static/js/main.3b6aee60.js.map",
-    "787.01048402.chunk.js.map": "/godfather/static/js/787.01048402.chunk.js.map"
+    "main.css": "/static/css/main.b4483e54.css",
+    "main.js": "/static/js/main.460b93b8.js",
+    "static/js/787.01048402.chunk.js": "/static/js/787.01048402.chunk.js",
+    "static/media/Sofia.jpeg": "/static/media/Sofia.78aa22f3042f39ec50a0.jpeg",
+    "index.html": "/index.html",
+    "main.b4483e54.css.map": "/static/css/main.b4483e54.css.map",
+    "main.460b93b8.js.map": "/static/js/main.460b93b8.js.map",
+    "787.01048402.chunk.js.map": "/static/js/787.01048402.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4483e54.css",
-    "static/js/main.3b6aee60.js"
+    "static/js/main.460b93b8.js"
   ]
 }
